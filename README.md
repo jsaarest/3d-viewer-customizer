@@ -2,7 +2,8 @@
 
 Originated as a weekend project. This 3D model viewer is R3F https://github.com/pmndrs/react-three-fiber based viewer, where the object colors can be customized.
 
-![image](https://user-images.githubusercontent.com/39669220/139132242-8a8d9f8c-752a-4af1-bf5c-bca9fc606799.png)
+![pyörä-gif-2](https://user-images.githubusercontent.com/39669220/153574521-57e56510-81fc-4fb3-99dd-2b1ecc61385f.gif)
+
 
 
 ## Creating JSX component from .glb or .gltf
